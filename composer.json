@@ -1,0 +1,12 @@
+{
+  "name":"navtej/328/hello",
+  "authors":[
+    {
+      "name":"Navtej Singh",
+      "email":"nsingh20@mail.greenriver.edu"
+    }
+  ],
+  "require":{
+    "bcosca/fatfree-core":"dev-master"
+  }
+}
